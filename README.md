@@ -1,6 +1,5 @@
 ## 🚀 1-MONTH CHALLENGE
-### ![HelloGIF](https://github.com/user-attachments/assets/83c0d7d7-6e6a-46f1-a472-1b6b80518cb9)
-Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
+### Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
 ### ⌛ I hope you don't waste any time and start improving soon.
 <!-- #  🚀╔═══════════════════════════════╗
   🚀║   1-MONTH CODING CHALLENGE    ║
