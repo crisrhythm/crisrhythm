@@ -1,23 +1,6 @@
-## 🚀 1-MONTH CHALLENGE
-### Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
-### ⌛ I hope you don't waste any time and start improving soon.
-<!-- #  🚀╔═══════════════════════════════╗
-  🚀║   1-MONTH CODING CHALLENGE    ║
-#  🚀╚═══════════════════════════════╝
-## Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
-### ⌛ I hope you don't waste any time and start improving soon.
---!>
-<!--
-**crisrhythm/crisrhythm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 1-Month Challenge
+#🔑 Key Feature to this challenge:
+1. Improving GitHub Repository
+2. Learning Fundamentals of Coding
+3. Relearning Electronics
+4. Applying Project
