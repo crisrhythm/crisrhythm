@@ -1,6 +1,7 @@
-## 🚀 1-Month Challenge
-Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
-
+#  🚀╔═══════════════════════════════╗
+#  🚀║   1-MONTH CODING CHALLENGE    ║
+#  🚀╚═══════════════════════════════╝
+## Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
 ## ⌛ I hope you don't waste any time and start improving soon.
 <!--
 **crisrhythm/crisrhythm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
