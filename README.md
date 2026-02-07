@@ -1,5 +1,5 @@
 #  🚀╔═══════════════════════════════╗
-#  🚀║   1-MONTH CODING CHALLENGE        ║
+  🚀║   1-MONTH CODING CHALLENGE    ║
 #  🚀╚═══════════════════════════════╝
 ## Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
 ### ⌛ I hope you don't waste any time and start improving soon.
