@@ -1,11 +1,6 @@
 # 🚀 1-MONTH CODING CHALLENGE
-
+### Hi there! If you want to follow my 1-month skill improvement challenge, welcome to my repository! 
 ## ═══════════════════════════════════════
-
-### Week 1: Foundations & Setup
-### Week 2: Data Structures & Algorithms  
-### Week 3: OOP & File Handling
-### Week 4: Final Project & Deployment
 
 ## ═══════════════════════════════════════
 <!-- #  🚀╔═══════════════════════════════╗
